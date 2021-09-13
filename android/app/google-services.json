@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999291159631",
+    "project_id": "vitrin-30da2",
+    "storage_bucket": "vitrin-30da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999291159631:android:03eea06af230b0a27e563a",
+        "android_client_info": {
+          "package_name": "com.example.vitrin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999291159631-qqkpbtbsd0pa5r5rdovph9rsu8el531i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEzAgaMKZOGOmR9xI9aS4c3c-kelUMac0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999291159631-qqkpbtbsd0pa5r5rdovph9rsu8el531i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
